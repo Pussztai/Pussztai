@@ -5,11 +5,12 @@
 
 ### 🌱 Currently learning
 - 🤖 AI / ML courses  
-- 💻 Programming fundamentals (C#, Python)  
+- 💻 Programming fundamentals (C#, Python,Java)
+- 🚀 Backend framework (Java Spring Boot) 
 - 🧩 Algorithms and data structures  
 - 🗄️ Databases (MySQL, SQL basics)  
-- 🌐 Web development (HTML, CSS, JavaScript)  
-- 🧭 Version control systems (Git, GitHub basics)  
+- 🌐 Web development (HTML, CSS, JavaScript, React)  
+- 🧭 Version control systems (Git, GitHub)  
 - 🧠 Software design and documentation
 
 ---
