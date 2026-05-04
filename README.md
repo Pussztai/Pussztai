@@ -4,7 +4,6 @@
 ---
 
 ### 🌱 Currently learning
-- 🤖 AI / ML courses  
 - 💻 Programming fundamentals (C#, Python,Java)
 - 🚀 Backend framework (Java Spring Boot) 
 - 🧩 Algorithms and data structures  
