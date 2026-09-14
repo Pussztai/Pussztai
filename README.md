@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pussztai</h1>
-<h3 align="center"> A passionate developer focused on .NET Backend Development & Software Engineering </h3>
 
 ---
 
