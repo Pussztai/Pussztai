@@ -10,7 +10,7 @@
 - 🔐 Backend fundamentals — authentication, authorization & API security
 - 🧠 Algorithms & data structures
 - 🛠️ Git & GitHub — version control and collaborative development
-- 🌐 Frontend basics — HTML, CSS, JavaScript & React
+- 🌐 Frontend basics — HTML, CSS, JavaScript
 
 ---
 
