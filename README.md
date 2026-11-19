@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pussztai</h1>
-
----
-
 ### 🌱 Currently learning
 - 💻 C# & .NET — building backend applications and APIs
 - 🚀 ASP.NET Core — REST APIs and backend development
